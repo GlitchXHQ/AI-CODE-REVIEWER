@@ -43,8 +43,8 @@ Deployment → Vercel (frontend), Render/Heroku (backend), MongoDB Atlas
 
 ⚡ How to Run Locally
 1️⃣ Clone the repository
-git clone https://github.com/your-username/ai-code-reviewerz.git
-cd ai-code-reviewerz
+git clone https://github.com/your-username/ai-code-reviewer.git
+cd ai-code-reviewer
 
 2️⃣ Setup Backend
 cd backend
